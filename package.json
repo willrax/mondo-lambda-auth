@@ -2,10 +2,13 @@
   "name": "mondo",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "author": "",
+  "main": "token.js",
+  "author": {
+    "name" : "Will Raxworthy",
+    "email" : "me@willrax.com"
+  },
   "license": "MIT",
   "devDependencies": {
-    "request": "^2.67.0"
+    "request": "2.67.0"
   }
 }
